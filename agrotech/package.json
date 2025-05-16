@@ -1,0 +1,15 @@
+{
+  "name": "agrotech",
+  "version": "1.0.0",
+  "description": "Alimento na mesa de quem mais precisa",
+  "license": "ISC",
+  "author": "Grupo 9 - 1ESOA",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  }
+}
